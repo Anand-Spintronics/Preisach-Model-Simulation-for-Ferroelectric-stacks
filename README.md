@@ -1,5 +1,8 @@
 # Preisach-Model-Simulation-for-Ferroelectric-stacks
 The Preisach Model is simulated for ferroelectric stacks. We essentially solve following equations
 
-$V_{FE}=\frac{rho_s-P_{FE}}{\epsilon_o\\epsilon_{FE}}$
+$V_{FE}=\frac{\rho_s-P_{FE}}{\epsilon_o\\epsilon_{FE}}$
+
+$\rho_s=\epsilon_o(V_a+V_{bi})+\frac{P_{FE} t_{FE}}{\epsilon_{FE}}$
+
 
