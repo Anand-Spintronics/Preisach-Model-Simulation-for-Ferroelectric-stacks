@@ -3,6 +3,6 @@ The Preisach Model is simulated for ferroelectric stacks. We essentially solve f
 
 $V_{FE}=\frac{\rho_s-P_{FE}}{\epsilon_o\\epsilon_{FE}}$
 
-$\rho_s=\epsilon_o(V_a+V_{bi})+\frac{P_{FE} t_{FE}}{\epsilon_{FE}}$
+$\rho_s=\frac{\epsilon_o(V_a+V_{bi})+\frac{P_{FE} t_{FE}}{\epsilon_{FE}}}{\frac{\lambda_1}{\epsilon_1}+\frac{\lambda_2}{\epsilon_2}+\frac{t_{FE}}{\epsilon_{FE}}}$
 
 
